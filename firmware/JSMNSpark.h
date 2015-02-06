@@ -1,6 +1,7 @@
 //#ifndef __JSMN_H_
 //#define __JSMN_H_
 
+#include <cstddef>
 /**
  * JSON type identifier. Basic types are:
  * 	o Object
